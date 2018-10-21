@@ -20,6 +20,7 @@ public class Ex01 { // Ex01 클래스 시작
 		System.out.println();
 		System.out.println("오늘은 날씨가 덥네요...");
 		System.out.println("수정수정!");
+		System.out.println("수정수정수정수정!");
 		
 		/*
 		 * System.out : 표준출력장치(모니터, 콘솔)
